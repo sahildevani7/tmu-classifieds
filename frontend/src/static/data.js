@@ -14,11 +14,11 @@ export const navItems = [
     },
     {
       title: "Items Wanted",
-      url: "/events",
+      url: "/adposting",
     },
     {
       title: "Academic Services",
-      url: "/faq",
+      url: "/academicservices",
     },
   ];
   
